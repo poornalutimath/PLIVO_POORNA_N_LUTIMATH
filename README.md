@@ -1,5 +1,3 @@
-# SLACK AI IMAGE GENERATOR
-
 # Slack AI Image Generator Bot
 
 ## Overview
